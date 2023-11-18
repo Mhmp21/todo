@@ -59,6 +59,10 @@ return [
 
         'postmark' => [
             'transport' => 'postmark',
+<<<<<<< HEAD
+=======
+            // 'message_stream_id' => null,
+>>>>>>> 34415bd (yrexuytifvyuhuih)
             // 'client' => [
             //     'timeout' => 5,
             // ],

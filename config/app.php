@@ -70,7 +70,11 @@ return [
     |
     */
 
+<<<<<<< HEAD
     'timezone' => 'UTC',
+=======
+    'timezone' => 'Asia/Tehran',
+>>>>>>> 34415bd (yrexuytifvyuhuih)
 
     /*
     |--------------------------------------------------------------------------
@@ -83,7 +87,11 @@ return [
     |
     */
 
+<<<<<<< HEAD
     'locale' => 'en',
+=======
+    'locale' => 'fa',
+>>>>>>> 34415bd (yrexuytifvyuhuih)
 
     /*
     |--------------------------------------------------------------------------
@@ -141,7 +149,11 @@ return [
 
     'maintenance' => [
         'driver' => 'file',
+<<<<<<< HEAD
         // 'store'  => 'redis',
+=======
+        // 'store' => 'redis',
+>>>>>>> 34415bd (yrexuytifvyuhuih)
     ],
 
     /*
@@ -168,7 +180,10 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
+<<<<<<< HEAD
         App\Providers\BBServiceProvider::class,
+=======
+>>>>>>> 34415bd (yrexuytifvyuhuih)
     ])->toArray(),
 
     /*
